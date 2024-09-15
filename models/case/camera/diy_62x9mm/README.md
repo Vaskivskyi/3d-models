@@ -1,4 +1,4 @@
-# ELP DIY camera module board 62x9.1 mm
+# DIY camera module board 62x9.1 mm
 
 A really compact case to protect the camera from dust and mechanical damage.
 
