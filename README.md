@@ -28,6 +28,8 @@ If you find these models useful, consider supporting the project:
 
 <a href="https://www.buymeacoffee.com/vaskivskyi" target="_blank"><img src="https://asusrouter.vaskivskyi.com/BuyMeACoffee.png" alt="Buy Me A Coffee" style="height: 60px !important;"></a>
 
+⭐ Star the repo and share it with others who might find it useful. You can also contribute by creating new models or improving existing ones, as well as reporting issues or suggesting new features.
+
 ## Product links
 
 Links to the products provided in this repository can be affiliate links. If you purchase a product through one of them, I might receive a small commission at no additional cost to you.
